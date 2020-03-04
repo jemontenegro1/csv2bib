@@ -24,11 +24,11 @@ Example: python csv2bib.py Example.csv Example.bib scopus
 
 **--help** or *-h*: Display the commands available.
 
-**csv filename**: The path or filename of the input file. (required)
+**[csv filename]**: The path or filename of the input file. (required)
 
 **[bib filename]**: The path or filename of the output file. (required)
 
-**[database name]**: DOI index in the csv file. Starting with 0 (first column). If the value is empty, the index is search in csv file (optional)
+**[database name]**: scopus or wos. (required)
 
 ## Digital Libraries available
 - Scopus
@@ -36,5 +36,6 @@ Example: python csv2bib.py Example.csv Example.bib scopus
 
 ## Header of CSV
 **momentarily** The header must be:
+
 AU  TI  SO  AB  DE  DT  TC  DI  DB  PY  RP  AU_UN WC  ID
 
