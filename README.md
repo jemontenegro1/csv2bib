@@ -1,7 +1,7 @@
 # csv2bib.py
 In bibliographic data such as Scopus and Web of Science, the article search can be export in CSV files. These files are easy to edit in software like Microsoft Excel and Google Sheets. However, in the case of bibliometric analysis exist specialized software, but it receives the information in BibTeX format.
 
-[![Gittip](https://img.shields.io/badge/Latest%20stable-2.1-green.svg?style=flat-squared)]()
+[![Gittip](https://img.shields.io/badge/Latest%20stable-0.1-green.svg?style=flat-squared)]()
 
 # Requirements
 
